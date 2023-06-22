@@ -38,3 +38,11 @@ __Melhoria 1__, _Melhoria 2
 [Google](https://www.google.com/)
 
 [https://roadmap.sh/](https://roadmap.sh/)
+
+## Código de função soma
+
+'''javascript
+function soma(a, b) {
+    return a+b;
+}
+'''
