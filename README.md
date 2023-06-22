@@ -28,3 +28,7 @@ __Melhoria 1__, _Melhoria 2
 #### Imagem local 
 
 ![Logo do Python](img/bluee.png)
+
+## Imagem externa
+
+![Logo do JAVA](https://logospng.org/download/java/logo-java-512.png)
