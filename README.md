@@ -20,7 +20,7 @@ __Melhoria 1__, _Melhoria 2
 ### Funcionalidades a desenvolver:
 
 1. Área de membros
-  1. Login
-  2. Descontos
+    1. Login
+    2. Descontos
 2. Integração com outros pagamentos
 3. Sistemas de Bônus  
