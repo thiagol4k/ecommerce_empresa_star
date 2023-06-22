@@ -24,3 +24,9 @@ __Melhoria 1__, _Melhoria 2
     2. Descontos
 2. Integração com outros pagamentos
 3. Sistemas de Bônus  
+
+#### Imagem local 
+
+![Logo do Python][def]
+
+[def]: img/python.jpg
