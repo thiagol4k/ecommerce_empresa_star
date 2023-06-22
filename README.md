@@ -41,8 +41,8 @@ __Melhoria 1__, _Melhoria 2
 
 ## Código de função soma
 
-'''javascript
+```javascript
 function soma(a, b) {
     return a+b;
 }
-'''
+```
