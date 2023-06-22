@@ -1,4 +1,7 @@
-# ecommerce_empresa_star
-Este é um e-commerce para a empresa Star, feito em PHP e MySQL
+# E-commerce empresa X
 
-# Teste
+Vamos criar um e-commerce, para empresa X e etc...
+
+# Funcionalidades:
+
+Checkout, Tela de produto, Catálogo, Home com banner
