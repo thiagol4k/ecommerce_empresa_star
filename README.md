@@ -27,6 +27,4 @@ __Melhoria 1__, _Melhoria 2
 
 #### Imagem local 
 
-![Logo do Python][def]
-
-[def]: img/python.jpg
+![Logo do Python](img/bluee.png)
