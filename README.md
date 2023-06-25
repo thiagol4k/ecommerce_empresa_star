@@ -10,7 +10,7 @@ Checkout, **Tela de produto**, **_Catálogo_**, Home com banner
 
 __Melhoria 1__, _Melhoria 2_
 
-### Liguagens do projeto:
+#### Liguagens do projeto:
 
 * Java
 * Python
