@@ -8,7 +8,7 @@ Checkout, **Tela de produto**, **_Catálogo_**, Home com banner
 
 ###### Melhorias do projeto:
 
-__Melhoria 1__, _Melhoria 2
+__Melhoria 1__, _Melhoria 2_
 
 ### Liguagens do projeto:
 
